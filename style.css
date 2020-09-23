@@ -1,0 +1,30 @@
+body {
+    background:url("https://images.unsplash.com/photo-1511593358241-7eea1f3c84e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80") no-repeat center center fixed;
+background-size: cover;
+
+}
+
+.button {
+background:url("https://images.unsplash.com/photo-1511593358241-7eea1f3c84e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80");
+padding: 20px;
+
+}
+
+* {
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.cola {
+    color: black;
+    text-align: end;
+}
+
+.träd {
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.gräs {
+    color: red;
+}
